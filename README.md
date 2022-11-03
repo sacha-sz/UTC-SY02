@@ -40,4 +40,4 @@ Chaque dossier contient :
 -   **sacha-sz** - Tous les TP - [sacha-sz](https://github.com/sacha-sz/)
 
 ## :bookmark_tabs: - Références
-- **Lien moodle vers le cours** : [UTC-SY02](https://moodle.utc.fr/course/view.php?id=1717)
+- **Lien moodle vers le cours**, (nécessite d'être connecté pour y accéder) : [UTC-SY02](https://moodle.utc.fr/course/view.php?id=1717)
