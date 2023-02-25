@@ -26,7 +26,15 @@ Chaque dossier contient :
 .   ├── TP4_Intervalle_de_confiance_enonce.pdf
 .   ├── utils.R
 .   └── TP4.R
-└..
+├── TP5
+.   ├── TP5_Regression_lineaire_enonce.pdf
+.   └── TP5.R
+├── TP6
+.   ├── TP6_Tests_hypotheses_enonce.pdf
+.   └── TP6.R
+└── TP7
+    ├── TP7_Tests_hypotheses_2_enonce.pdf
+    └── TP7.R
 ```
 ## :technologist: - Langage utilisé
 - R
